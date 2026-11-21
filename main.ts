@@ -5,10 +5,11 @@ import { join } from "node:path";
 
 const lines: string[] = [
   "The light on the barn roof tonight left its star",
-  "before the first bread was baked.",
-  "All that time it crossed the dark without a sound,",
-  "and now it rests on the hill, on the gate, on your sleeve,",
-  "still arriving.",
+  "before the first bread was ever baked.",
+  "All that long way it crossed the dark without a sound,",
+  "and now it lies on the hill, on the gate, on your sleeve,",
+  "so softly the dust does not stir,",
+  "and more of it is still on the way.",
 ];
 
 const text: string = lines.join("\n");
